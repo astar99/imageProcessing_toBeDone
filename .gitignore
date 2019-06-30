@@ -1,0 +1,9 @@
+/*
+
+!/.gitignore
+!/pic/
+!*.cpp
+!*.sln
+!*.vcxproj
+!*.filters
+!*.user
